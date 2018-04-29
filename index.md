@@ -2,8 +2,8 @@
 layout: home2
 description: "Bin Liu's website"
 tags: [Jekyll, theme, responsive, template, CityU, liubin]
-image:
-  feature: Sea.jpg
+#image:
+#  feature: Sea.jpg
 ---
 
 ---

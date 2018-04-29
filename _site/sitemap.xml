@@ -6,11 +6,11 @@
     
     
     <url>
-        <loc>http://localhost:4000/404.html</loc>
+        <loc>http://localhost:4000/404/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/index.html</loc>
+        <loc>http://localhost:4000/</loc>
     </url>
     
     <url>
