@@ -3,15 +3,15 @@ layout: page
 permalink: /project/
 title: Selected Projects I am Involved
 tags: [project]
-modified: 2-9-2016
+modified: 6-5-2018
 comments: false
 ---
 
 ---
 
-### Secure Outsourced Middleboxes
+### Integrated Maintenance Strategy Review & Optimization for Rolling Stock Wheels
 
-Middleboxes are essential for a wide range of advanced traffic processing in enterprise networks. The trend of deploying middleboxes in public clouds as virtualized services further expands potential benefits of middleboxes while avoiding local maintenance burdens. Despite promising, middlebox outsourcing is facing crucial security challenges. Traffic now is redirect to cloud, where the traffic content and proprietary middlebox rules are exposed. On the other hand, these boxes are no longer under the direct control of enterprises. It is desirable to ensure that these boxes function as intended. 
+Develop a maintenance policy for locomotive wheels based on the degradation data of the wheels
 
 <div style="text-align:center">
 <img  src="{{ site.BASE_PATH }}/images/mb.jpg" alt="Drawing" style="width: 400px;"/>

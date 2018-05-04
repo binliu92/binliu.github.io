@@ -10,15 +10,25 @@ tags: [Jekyll, theme, responsive, template, CityU, liubin]
 
 ### Overview
 
-I am a Postdoc in the [Faculty of Information Technology](https://www.monash.edu/it) at [University of Waterloo](https://uwaterloo.ca/about/), and affiliated with the [Monash Cybersecurity Lab](http://www.monash.edu/cybersecurity-lab). I earned my PhD degree from [City University of Hong Kong](http://www.cityu.edu.hk/) under the direction of the incomparable [Way Kuo](http://www6.cityu.edu.hk/op/bio_en.htm) and [Min Xie](http://www.cityu.edu.hk/seem/minxie/) in 2017.
+I am a Postdocal fellow in the [Department of Civil and Environmental Engineering](https://uwaterloo.ca/civil-environmental-engineering/) at [University of Waterloo](https://uwaterloo.ca/about/). I earned my PhD degree from [City University of Hong Kong](http://www.cityu.edu.hk/) under the direction of the incomparable [Way Kuo](http://www6.cityu.edu.hk/op/bio_en.htm) and [Min Xie](http://www.cityu.edu.hk/seem/minxie/) in 2017. 
 
 <br />
-My research interests include cloud and network security with recent focus on encrypted search and secure networked systems. My research is currently supported by government, university, as well as industry sectors, including Hong Kong Innovation and Technology Commission, Monash University, Oceania Cyber Security Centre, Microsoft Azure, and Collinstar Capital.
+I focus on the research of system engineering and the associated decision making of complex systems for the purpose of improving operational performance. I am interested in the discovery of uncertainty and performance improvement of complex systems. Currently my research interests include reliability and risk assessment, degradation and resilience analysis, decision making under uncertainty, and data analysis.
 
-<!-- <br />
-I am always looking for outstanding students; please email me your CV and supporting documents. More details on PhD applications can be found [here](http://www.monash.edu/graduate-research/future-students/apply), [here](https://www.monash.edu/graduate-research/future-students/support/international-students/china-scholarship-council), and [here](https://xyuancs.github.io/PhD-adv.md).  -->
+
 
 ---
+### Research Experience
+
+- Feb 2018 –: **Postdoctoral fellow**, Department of Civil and Environmental Engineering, University of Waterloo, Canada
+- Nov 2017 – Feb 2018: **Post doc**, Lulea Railway Research Center, Lulea University of Technology, Sweden
+- Sep 2017 – Nov 2017: **Post doc**, Research Center for Automatic Control of Nancy, University of Lorraine, France 
+- Sep 2016 – Oct 2016: **Visiting researcher**, Institute for Manufacturing, University of Cambridge, UK
+- Jul 2016 – Sep 2016: **Visiting researcher**, Kent Business School, University of Kent, UK
+- Oct 2015 – Nov 2015: **Visiting researcher**, Chinese Academy of Sciences, China 
+
+---
+
 
 ### Recent Publication
 
@@ -49,29 +59,33 @@ I am always looking for outstanding students; please email me your CV and suppor
 
 
 
+---
 
+### Professional Awards/Recognition
+
+- **Outstanding Reviewer:** European Journal of Operational Research, Reliability Engineering & System Safety, Computers & Industrial Engineering, International Journal of Production Economics
+- **Recognized Reviewer:** IEEE Transactions on Reliability, IIE Transactions, Journal of the Operational Research Society
 
 
 ---
 
-### Teaching
+### Honors
 
-- FIT3173, Semester S1 2018: [Software Security](https://monash.edu/pubs/2017handbooks/units/FIT3173.html);
+- Dec 2017: **IEEE Member**
+- Jul 2016: **Featured Article** in Industrial Engineer Magazine
+- 2013 - 2016: **Outstanding Academic Performance Award (Thrice)**
+- 2013 - 2016: **Research Tuition Scholarship (Thrice)**
+- 2013: **Patent**: Design of Joint Pulling Out Pallet Device of Microwave Oven. CN201210191597.0
+- Feb 2012: **Finalist** of The Mathematical Contest in Modeling (MCM) 
+- 2010: **National Scholarship**
 
----
-
-### Service
-
-- TPC member: [AsiaCCS-SCC 2017](https://conference.cs.cityu.edu.hk/asiaccsscc/index.html), Globecom 2017, IWQoS 2017,  SecureComm 2017, ICCCN 2018, [NSS 2018](http://www4.comp.polyu.edu.hk/~nss2018/index.html), Globecom 2018.
-- Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Information Forensics and Security, IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Multimedia, IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Service Computing, IEEE Internet of Things Journal, Security and Communication Networks; CODASPY 2017, ISPEC 2017, SecureComm2018.
-- Departmental Research Education Committee Member, CS Dept., CityU HK, 2014 - 2016.
-- Volunteer: INFOCOM 2015; [ASI 2014, Information Security and Privacy in Social Networks and Cloud Computing](http://conference.cs.cityu.edu.hk/asi14/index.htm).
 
 ---
 
-### Invited Talk
+### Teaching Experience 
 
-- "Private and Versatile Search over Very Large Encrypted Datasets", at CityU-CS Research Student Workshop, June 2017
-- "Towards Secure Outsourced Middleboxes", at Monash University, December 2016
-- "Searchable Encryption in Secure Network Function Outsourcing", at Jinan University, April 2016
+- Reliability Engineering (SEEM 4064), undergraduate course (teach tutorial and laboratory class)
+- Integrative Engineering Management (SEEM 6017), graduate course (lead class discussion and guide student projects)
+- Asset & Maintenance Management (SEEM 6014), graduate course (teach laboratory class)
+- Teaching students: First Steps (pedagogy course for teaching)
 

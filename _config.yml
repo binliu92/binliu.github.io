@@ -7,14 +7,14 @@ disqus_shortname: BinLiu
 
 # Owner/author information
 owner:
-  name:           Bin Liu
+  name:           Bin Liu & Qian Xu
   avatar:         binliu.jpg
-  bio:            When you risk it all, sky is the limit.
+  bio:            Follow your heart! Do your job!
   email:          binliu92@outlook.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: jponttuset
   #linkedin: jponttuset
-  #google_scholar: 81yWaCoAAAAJ
+  google_scholar: EdPTm18AAAAJ
   #google_plus: 113718226018314522413
   #github: CongGroup
 # Analytics and webmaster tools stuff goes here
@@ -30,8 +30,8 @@ links:
   #   url: /cv/
   - title: Publication
     url: /publication/
-  - title: Project
-    url: /project/
+  #- title: Project
+  #  url: /project/
   # - title: Blog
   #   url: /blog/
 

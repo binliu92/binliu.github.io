@@ -3,8 +3,8 @@ layout: publications
 permalink: /publication/
 title: Publication
 tags: [publications]
-modified: 2-9-2016
+modified: 31-5-2018
 comments: false
 ---
 
-You can also browse my <a href="http://scholar.google.com.hk/citations?user=81yWaCoAAAAJ" target="_blank">Google Scholar profile</a>.
+You can also browse my <a href="https://scholar.google.ca/citations?user=EdPTm18AAAAJ" target="_blank">Google Scholar profile</a>.
