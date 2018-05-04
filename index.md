@@ -20,12 +20,18 @@ I focus on the research of system engineering and the associated decision making
 ---
 ### Research Experience
 
-- Feb 2018 –: **Postdoctoral fellow**, Department of Civil and Environmental Engineering, University of Waterloo, Canada
-- Nov 2017 – Feb 2018: **Post doc**, Lulea Railway Research Center, Lulea University of Technology, Sweden
-- Sep 2017 – Nov 2017: **Post doc**, Research Center for Automatic Control of Nancy, University of Lorraine, France 
-- Sep 2016 – Oct 2016: **Visiting researcher**, Institute for Manufacturing, University of Cambridge, UK
-- Jul 2016 – Sep 2016: **Visiting researcher**, Kent Business School, University of Kent, UK
-- Oct 2015 – Nov 2015: **Visiting researcher**, Chinese Academy of Sciences, China 
+- Feb 2018 –:  
+**Postdoctoral fellow**, Department of Civil and Environmental Engineering, University of Waterloo, Canada
+- Nov 2017 – Feb 2018:   
+**Post doc**, Lulea Railway Research Center, Lulea University of Technology, Sweden
+- Sep 2017 – Nov 2017:   
+**Post doc**, Research Center for Automatic Control of Nancy, University of Lorraine, France 
+- Sep 2016 – Oct 2016:   
+**Visiting researcher**, Institute for Manufacturing, University of Cambridge, UK
+- Jul 2016 – Sep 2016:   
+**Visiting researcher**, Kent Business School, University of Kent, UK
+- Oct 2015 – Nov 2015:   
+**Visiting researcher**, Chinese Academy of Sciences, China 
 
 ---
 
@@ -71,13 +77,13 @@ I focus on the research of system engineering and the associated decision making
 
 ### Honors
 
-- Dec 2017: **IEEE Member**
-- Jul 2016: **Featured Article** in Industrial Engineer Magazine
-- 2013 - 2016: **Outstanding Academic Performance Award (Thrice)**
-- 2013 - 2016: **Research Tuition Scholarship (Thrice)**
-- 2013: **Patent**: Design of Joint Pulling Out Pallet Device of Microwave Oven. CN201210191597.0
-- Feb 2012: **Finalist** of The Mathematical Contest in Modeling (MCM) 
-- 2010: **National Scholarship**
+-  **IEEE Member** (Dec, 2017)
+-  **Featured Article** in Industrial Engineer Magazine (Jul, 2016)
+-  **Outstanding Academic Performance Award**(2013-2016 Thrice)
+-  **Research Tuition Scholarship**(2013-2016 Thrice)
+-  **Patent**: Design of Joint Pulling Out Pallet Device of Microwave Oven. CN201210191597.0 
+-  **Finalist** of The Mathematical Contest in Modeling (MCM,2012) 
+-  **National Scholarship** (2010)
 
 
 ---
