@@ -11,31 +11,31 @@ tags: [Jekyll, theme, responsive, template, CityU, liubin]
 
 ### Overview
 
-I am a Postdocal fellow in the [Department of Civil and Environmental Engineering](https://uwaterloo.ca/civil-environmental-engineering/) at [University of Waterloo](https://uwaterloo.ca/about/). I earned my PhD degree from [City University of Hong Kong](http://www.cityu.edu.hk/) under the direction of the incomparable [Way Kuo](http://www6.cityu.edu.hk/op/bio_en.htm) and [Min Xie](http://www.cityu.edu.hk/seem/minxie/) in 2017. 
+I am a Postdocal fellow in the [Department of Civil and Environmental Engineering](https://uwaterloo.ca/civil-environmental-engineering/) at [University of Waterloo](https://uwaterloo.ca/about/). I earned my PhD degree from [City University of Hong Kong](http://www.cityu.edu.hk/) under the direction of Prof [Way Kuo](http://www6.cityu.edu.hk/op/bio_en.htm) and Prof [Min Xie](http://www.cityu.edu.hk/seem/minxie/) in 2017. 
 
 <br />
-I focus on the research of system engineering and the associated decision making of complex systems for the purpose of improving operational performance. I am interested in the discovery of uncertainty and performance improvement of complex systems. Currently my research interests include reliability and risk assessment, degradation and resilience analysis, decision making under uncertainty, and data analysis.
+I focus on the research of system engineering and the associated decision making for the purpose of improving operational performance. I am interested in the discovery of uncertainty and system performance improvement. Currently my research interests include reliability and risk assessment, degradation and resilience analysis, decision making under uncertainty, and data analytics.
 
 
 
 ---
-### Research Experience
 
-- Feb 2018 –:  
-**Postdoctoral fellow**, Department of Civil and Environmental Engineering, University of Waterloo, Canada
-- Nov 2017 – Feb 2018:   
-**Post doc**, Lulea Railway Research Center, Lulea University of Technology, Sweden
-- Sep 2017 – Nov 2017:   
-**Post doc**, Research Center for Automatic Control of Nancy, University of Lorraine, France 
-- Sep 2016 – Oct 2016:   
-**Visiting researcher**, Institute for Manufacturing, University of Cambridge, UK
-- Jul 2016 – Sep 2016:   
-**Visiting researcher**, Kent Business School, University of Kent, UK
-- Oct 2015 – Nov 2015:   
-**Visiting researcher**, Chinese Academy of Sciences, China 
+
+
+
+### Education 
+
+- 09/2013-08/2017    
+**City University of Hong Kong**    
+Ph.D. in Systems Engineering & Engineering Management     
+Supervisor: Prof. Way Kuo and Prof. Min Xie
+
+- 09/2009-07/2013    
+**Zhejiang University**    
+Bachelor in Automation (National Scholarship recipient)    
+Honored Minor in Advanced Honor Class of Engineering Education
 
 ---
-
 
 ### Recent Publication
 
